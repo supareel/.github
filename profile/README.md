@@ -16,8 +16,8 @@
 We are building an edtech platform for coaching businesses.
 
 ### Repository link
-- [Sambhav Academy Frontend](https://github.com/supareel/sambhav-be)
-- [Sambhav Academy Backend](https://github.com/supareel/sambhav-fe)
+- [Sambhav Academy Backend](https://github.com/supareel/sambhav-be)
+- [Sambhav Academy Frontend](https://github.com/supareel/sambhav-fe)
 
 ### Project Task board
 - [Project Task board](https://github.com/orgs/supareel/projects/1)
